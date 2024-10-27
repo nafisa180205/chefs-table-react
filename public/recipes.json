@@ -1,0 +1,64 @@
+ [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Grilled Chicken Basil",
+        "recipe_image": "https://i.ibb.co.com/TLCTwVw/pexels-rene-roa-1882128-12261093.jpg",
+        "short_description": "A delicious grilled chicken with fresh basil and soy sauce marinade.",
+        "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"],
+        "preparing_time": 30,
+        "calories": 320
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_image": "https://i.ibb.co.com/tmhmxjv/pexels-polina-tankilevitch-4518840.jpg",
+        "short_description": "Classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "ingredients": ["400 g spaghetti", "200 g pancetta", "3 eggs", "100 g parmesan cheese", "Salt", "Pepper"],
+        "preparing_time": 25,
+        "calories": 450
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Avocado Salad",
+        "recipe_image": "https://i.ibb.co.com/gVGK2bp/pexels-bulbfish-1143754.jpg",
+        "short_description": "A fresh and light salad made with ripe avocados and vegetables.",
+        "ingredients": ["2 avocados", "100 g cherry tomatoes", "1 cucumber", "50 g red onion", "30 ml olive oil", "Lemon juice", "Salt", "Pepper"],
+        "preparing_time": 15,
+        "calories": 200
+      },
+      {
+        "recipe_id": 4,
+        "recipe_name": "Beef Stir-fry",
+        "recipe_image": "https://i.ibb.co.com/ggyXxRh/pexels-sandy-rojas-3514689-5433540.jpg",
+        "short_description": "Quick and easy stir-fried beef with vegetables.",
+        "ingredients": [
+            "500 g beef", 
+            "200 g bell peppers", 
+            "100 g broccoli", 
+            "2 garlic cloves", 
+            "50 ml soy sauce", 
+            "20 ml sesame oil"],
+        "preparing_time": 20,
+        "calories": 350
+      },
+      {
+        "recipe_id": 5,
+        "recipe_name": "Vegetable Curry",
+        "recipe_image": "https://i.ibb.co.com/sRB13Y8/pexels-catscoming-674574.jpg",
+        "short_description": "A flavorful curry packed with various vegetables and spices.",
+        "ingredients": ["200 g carrots", "150 g potatoes", "100 g peas", "100 g spinach", "200 ml coconut milk", "30 g curry powder"],
+        "preparing_time": 40,
+        "calories": 290
+      },
+      {
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Brownie",
+        "recipe_image": "https://i.ibb.co.com/1K353Sb/pexels-jess-vide-6390688.jpg",
+        "short_description": "Rich and fudge brownies with a deep chocolate flavor.",
+        "ingredients": ["200 g dark chocolate", "100 g butter", "150 g sugar", "2 eggs", "100 g flour", "1 tsp vanilla extract"],
+        "preparing_time": 35,
+        "calories": 400
+      }
+    ]
+  
+  
